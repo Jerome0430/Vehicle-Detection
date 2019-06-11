@@ -6,6 +6,7 @@
 * 实施滑动窗口技术并使用训练完成的分类器搜索图像中的车辆
 * 应用热力图(heatMap)过滤错误检测(false positive)
 * 估计检测到的车辆的边界框
+
 [//]: # (Image References)
 [image1]: ./output/Vehicle_Nonvehicle.png
 [image2]: ./output/hog.png
@@ -17,7 +18,8 @@
 [video1]: ./project_video.mp4
 
 
-#### 项目的环境 
+
+### 项目的环境 
 
 **软件** 
 * Windows10 (64bit)
