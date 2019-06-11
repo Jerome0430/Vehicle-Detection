@@ -29,8 +29,8 @@
 * GPU: 核心显卡
 * 内存: 16GB
 
-####数据集
-
+#### 数据集
+ 
 以下是用于训练分类器的车辆和非车辆的数据链接。图像来自 [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html),  [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/)
 
 
@@ -84,10 +84,10 @@
 
 
 
- 然后对热图进行阈值过滤,过滤错误检测,结果如下
-  ![alt text][image7]
+然后对热图进行阈值过滤,过滤错误检测,结果如下
+![alt text][image7]
  
-####结果
+#### 结果
 
 最终结果视频如下。
  
