@@ -18,7 +18,11 @@
 [video1]: ./project_video.mp4
 
 
+<<<<<<< HEAD
+#### 项目的环境 
+=======
 ### 项目的环境 
+>>>>>>> 08b523c4571810e64ccdcaa05c04c926b099c9dc
 
 **软件** 
 * Windows10 (64bit)
