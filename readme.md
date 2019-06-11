@@ -30,6 +30,7 @@
 * 内存: 16GB
 
 ####数据集
+
 以下是用于训练分类器的车辆和非车辆的数据链接。图像来自 [GTI vehicle image database](http://www.gti.ssr.upm.es/data/Vehicle_database.html),  [KITTI vision benchmark suite](http://www.cvlibs.net/datasets/kitti/)
 
 
@@ -47,6 +48,7 @@
 #### 训练分类器
 
 这里使用SVM分类器
+
 
 
 最终训练的分类器在测试数据集得到98.7%的准确率。
@@ -86,6 +88,7 @@
   ![alt text][image7]
  
 ####结果
+
 最终结果视频如下。
  
 
